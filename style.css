@@ -639,6 +639,7 @@ margin: 0 10px;
 .social-media {
     display: flex;
     gap: 30px;
+    cursor: pointer;
 }
 
 .btn-sect11 {
